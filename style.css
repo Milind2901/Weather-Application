@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: #222;
-    background-image:url('image/landscape.jpg') ;
+    background-image:url('https://img.freepik.com/free-photo/lone-tree_181624-46361.jpg?w=1060&t=st=1696063863~exp=1696064463~hmac=5f455fec64d8304c78de6c4a2ebd4f94ef2a3d0059b6e3d97d48877283059e0d') ;
     background-size: 100%;
     font-size: 120%;
 }
